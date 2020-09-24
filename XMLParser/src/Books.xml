@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+    <Book>
+        <title>Programming Pearls</title>
+        <publishedYear>1999</publishedYear>
+        <numberOfPages>256</numberOfPages>
+        <authors>Jon Bentley</authors>
+    </Book>
+    <Book>
+        <title>The Explorers Guild</title>
+        <publishedYear>2015</publishedYear>
+        <numberOfPages>784</numberOfPages>
+        <authors>Kevin Costner, Jon Baird</authors>
+    </Book>
+    <Book>
+        <title>Tiny Pretty Things</title>
+        <publishedYear>2015</publishedYear>
+        <numberOfPages>448</numberOfPages>
+        <authors>Sona Charaipotra</authors>
+    </Book>
+    <Book>
+        <title>Zenith</title>
+        <publishedYear>2018</publishedYear>
+        <numberOfPages>576</numberOfPages>
+        <authors>Sasha Alsberg</authors>
+    </Book>
+</Books>
