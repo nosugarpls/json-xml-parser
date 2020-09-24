@@ -1,0 +1,26 @@
+[
+{
+  "title" : "Programming Pearls",
+  "publishedYear" : 1999,
+  "numberOfPages" : 256,
+  "authors" : "Jon Bentley"
+},
+{
+  "title" : "The Explorers Guild",
+  "publishedYear" : 2015,
+  "numberOfPages" : 784,
+  "authors" : "Kevin Costner, Jon Baird"
+},
+{
+  "title" : "Tiny Pretty Things",
+  "publishedYear" : 2015,
+  "numberOfPages" : 448,
+  "authors" : "Sona Charaipotra"
+},
+{
+"title" : "Zenith",
+"publishedYear" : 2018,
+"numberOfPages" : 576,
+"authors" : "Sasha Alsberg"
+}
+]
